@@ -29,6 +29,7 @@ Clone este repositório:
 
    ```bash
    git clone https://github.com/PedroAlencarr/Ligue4Python.git
+   ```
    -------------------------------------------------------
 
 # Description
@@ -58,5 +59,6 @@ This is a simple Connect 4 game implemented in Python. Connect 4 is a strategy g
 
 Clone this repository:
 
-```bash
-   git clone https://github.com/PedroAlencarr/Ligue4Python.git
+    ```bash
+   git clone https://github.com/PedroAlencarr/Ligue4Python.git 
+   ```
