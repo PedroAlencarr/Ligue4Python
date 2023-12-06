@@ -27,9 +27,8 @@ Este é um simples jogo de Ligue 4 implementado em Python. O Ligue 4 é um jogo 
 
 Clone este repositório:
 
-    ```bash
+   ```bash
    git clone https://github.com/PedroAlencarr/Ligue4Python.git
-
    -------------------------------------------------------
 
 # Description
@@ -59,5 +58,5 @@ This is a simple Connect 4 game implemented in Python. Connect 4 is a strategy g
 
 Clone this repository:
 
-    ```bash
+```bash
    git clone https://github.com/PedroAlencarr/Ligue4Python.git
